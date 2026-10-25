@@ -233,3 +233,4 @@ Start with the [Contributing Guide](CONTRIBUTING.md). Join our [Discord](https:/
 ## License
 
 [Apache 2.0 © 2026 Cline Bot Inc.](./LICENSE)
+# synapseos
